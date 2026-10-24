@@ -4,7 +4,7 @@ Fluxograma do programa `Alg07_2`, que pede um número até o usuário acertar o 
 
 ```mermaid
 flowchart TD
-    A([Início]) --> B[/"Exibir: Vou pensar em um número, tente adivinhar"/]
+    A([Início]) --> B["Exibir: Vou pensar em um número, tente adivinhar"]
     B --> C[/"Exibir: Digite um número"/]
     C --> D[/"Ler número (number)"/]
     D --> E["Chamar adivinhe(number)<br/>a recebe o valor lido"]
