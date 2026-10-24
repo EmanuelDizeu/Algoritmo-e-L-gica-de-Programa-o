@@ -7,6 +7,7 @@ public class Alg07_5{
             System.out.println("!" + cont);
             fatorial = fatorial * cont;
             cont --;
+            a --;
         } while(a > 1);
         System.out.println("!"+1);
         System.out.println("O resultado do fatorial é "+ fatorial);
