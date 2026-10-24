@@ -13,7 +13,7 @@ public class Alg07_2{
                 System.out.println("Digite outro número: ");
                 a = teclado.nextInt();
             } else if((a == 32)){
-                System.out.println(" Parabéns o número você acertou é igual");
+                System.out.println(" Parabéns o número você acertou é igual ao que eu pensei.");
                  b = 1;
             }
         } while((b != 1));
