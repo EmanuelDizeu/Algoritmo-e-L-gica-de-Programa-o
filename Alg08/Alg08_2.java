@@ -1,9 +1,4 @@
 package Alg08;
-/*Busca e Frequência Desenvolva um programa em Java que leia um vetor de 8 posições com números inteiros. 
-Depois, solicite ao usuário um número inteiro para ser buscado no vetor. O programa deve informar:
-Se o número está ou não presente no vetor.
-Quantas vezes ele aparece (frequência).
-Em quais posições (índices) ele foi encontrado. */
 import java.util.Scanner;
 public class Alg08_2 {
 public static boolean contem(int[]vetor, int elemento){
