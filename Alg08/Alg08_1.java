@@ -1,10 +1,4 @@
 package Alg08;
-/*Maior, Menor e Média Crie um programa em Java que leia um vetor 
-de 10 números inteiros fornecidos pelo usuário. Em seguida, o programa deve
- calcular e exibir:
-O maior valor armazenado no vetor.
-O menor valor armazenado no vetor.
-A média aritmética dos elementos do vetor. */
 import java.util.Scanner;
 public class Alg08_1 {
     public static void mmm(){
