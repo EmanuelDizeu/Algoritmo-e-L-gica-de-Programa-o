@@ -1,8 +1,4 @@
 package Alg08;
-/*Separação de Pares e Ímpares Faça um programa em Java que leia 10 números inteiros e os 
-armazene em um vetor principal. Em seguida, crie outros dois vetores: um para armazenar apenas
- os números pares e outro para os números ímpares presentes no vetor original. Ao final, exiba o
-  conteúdo dos dois novos vetores. */
   import java.util.Scanner;
 public class Alg08_4 {
     public static void par_ímpar(){
